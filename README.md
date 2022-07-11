@@ -14,17 +14,34 @@ JavaTalk은 소켓 프로그래밍과 자바 Swing을 이용한 채팅 프로그
 ☑️ 테마 변경  <br>
 ☑️ 로그인 및 메시지 수신 시 알림
 
+## Language
+
+- Java
+
 ## Protocol
 ![image](https://user-images.githubusercontent.com/89003891/178308267-3fbdd41c-1ba4-4f98-8efe-c3daaf32440c.png)
 
-## UML Diagram
-**Server** <br>
-![image](https://user-images.githubusercontent.com/89003891/178308344-b597c02f-c740-41c0-a9ae-0067d18d0cf1.png)
+## 실행 화면
+✔️ Server 시작 화면 & 로그인 화면
 
-**Client** <br>
-![image](https://user-images.githubusercontent.com/89003891/178308401-401204dc-0bf0-4e66-a767-2ba8be6cb789.png)
-![image](https://user-images.githubusercontent.com/89003891/178308410-aa9a7d6c-fe1a-4b73-843a-f353e91afcaf.png)
-<br>
-![image](https://user-images.githubusercontent.com/89003891/178308432-5b127726-29b5-405c-9288-a24280f5bb96.png)
-<br>
-![image](https://user-images.githubusercontent.com/89003891/178308453-04db9382-98e8-466f-8c72-90d264074aa0.png)
+![image](https://user-images.githubusercontent.com/89003891/178309310-f086de23-38dc-49bd-81e6-1010e5b97f8a.png)
+![image](https://user-images.githubusercontent.com/89003891/178309324-06334ad1-79e6-4043-b05b-08cf67c0f37c.png)
+
+##
+🎮 친구 목록
+
+![image](https://user-images.githubusercontent.com/89003891/178309366-5d1c931e-59f6-45a2-913a-cfc94e2009a6.png)
+![image](https://user-images.githubusercontent.com/89003891/178309378-be7418e5-39cf-48db-9d6a-65bebe861d5f.png)
+
+##
+🎮 채팅방
+
+![image](https://user-images.githubusercontent.com/89003891/178309500-b7458e31-23c4-49bc-b053-22d9c38e59ca.png)
+![image](https://user-images.githubusercontent.com/89003891/178309513-b6c2aab4-73d8-481f-9d28-2accf82dee18.png)
+
+##
+🎮 다크 모드
+
+![image](https://user-images.githubusercontent.com/89003891/178309581-7ad4d30a-2781-4354-b7ec-87fa3d56871c.png)
+![image](https://user-images.githubusercontent.com/89003891/178309569-c7dc9967-a5ce-4ebd-8ccb-a63636356815.png)
+

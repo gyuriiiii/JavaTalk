@@ -24,7 +24,7 @@ JavaTalk은 소켓 프로그래밍과 자바 Swing을 이용한 채팅 프로그
 ## 실행 화면
 ✔️ Server 시작 화면 & 로그인 화면
 
-![image](https://user-images.githubusercontent.com/89003891/178309310-f086de23-38dc-49bd-81e6-1010e5b97f8a.png)
+![image](https://user-images.githubusercontent.com/89003891/178309739-9caf9a2a-2705-4757-8c65-7e30b8e8ead6.png)
 ![image](https://user-images.githubusercontent.com/89003891/178309324-06334ad1-79e6-4043-b05b-08cf67c0f37c.png)
 
 ##
